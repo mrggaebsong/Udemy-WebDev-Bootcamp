@@ -1,0 +1,14 @@
+h1 {
+    font-family: Ubuntu;
+    font-size: 150%;
+    margin-left: 1.66%;
+    border-bottom: 2px solid red;
+    width: 30%;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
