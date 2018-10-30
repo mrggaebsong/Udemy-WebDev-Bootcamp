@@ -1,0 +1,17 @@
+div, p, span{
+    padding: 100px;
+    display: inline-block;
+    margin: 10px;
+}
+
+body>:nth-child(odd){
+    background-color: red;
+}
+
+body>p:first-child{
+    background-color: red;
+}
+
+p+p{
+    background-color: red;
+}
